@@ -1,0 +1,39 @@
+.index li{
+    display:inline-block;
+    margin:4%;
+    margin-top: -2pt;
+    color:#EEEEEE;
+    font-size:1.2rem;
+    font-family: "Noto Serif", serif;
+}
+header{
+    background-color:#1D1616;
+    margin-top: -12pt;
+    border-radius: 9px;
+    height:100px;
+}
+body[class="index"]{
+    background-color:#3D0000;
+}
+input[class="index"]{
+background-color: #1D1616;
+color:#EEEEEE;
+height:30px;
+width:200px;
+border-radius: 15px;
+margin-left:90px;
+margin-bottom:100px;
+}
+p[class="index"]{
+    display:inline-block;
+    width:400px;
+    height:400px;
+    background-color: #1D1616;
+    margin-left:295px;
+    border-radius: 10px;
+    padding:20px;
+    color:#EEEEEE;
+    font-size: 1.1rem;
+    background-image: url("");
+    font-weight:100;
+}
